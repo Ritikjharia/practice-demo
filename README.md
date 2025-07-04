@@ -1,3 +1,3 @@
 # practice-demo
 this is my first commit repository<br>
-Author - Ritik mahra
+Author - Ritik mahra(webiste)
